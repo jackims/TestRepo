@@ -1,2 +1,4 @@
 # TestRepo
-TRaining practice
+Training practice
+
+Testing ended
